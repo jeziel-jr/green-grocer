@@ -2,7 +2,7 @@ import 'package:greengrocer/src/models/item_model.dart';
 
 ItemModel apple = ItemModel(
   itemName: 'Maçã',
-  imgUrl: 'assets\\fruits\\apple.png',
+  imgUrl: 'assets/fruits/apple.png',
   unit: 'kg',
   price: 5.5,
   description:
@@ -10,7 +10,7 @@ ItemModel apple = ItemModel(
 );
 
 ItemModel grape = ItemModel(
-  imgUrl: 'assets\\fruits\\grape.png',
+  imgUrl: 'assets/fruits/grape.png',
   itemName: 'Uva',
   price: 7.4,
   unit: 'kg',
@@ -19,7 +19,7 @@ ItemModel grape = ItemModel(
 );
 
 ItemModel guava = ItemModel(
-  imgUrl: 'assets\\fruits\\guava.png',
+  imgUrl: 'assets/fruits/guava.png',
   itemName: 'Goiaba',
   price: 11.5,
   unit: 'kg',
@@ -28,7 +28,7 @@ ItemModel guava = ItemModel(
 );
 
 ItemModel kiwi = ItemModel(
-  imgUrl: 'assets\\fruits\\kiwi.png',
+  imgUrl: 'assets/fruits/kiwi.png',
   itemName: 'Kiwi',
   price: 2.5,
   unit: 'un',
@@ -37,7 +37,7 @@ ItemModel kiwi = ItemModel(
 );
 
 ItemModel mango = ItemModel(
-  imgUrl: 'assets\\fruits\\mango.png',
+  imgUrl: 'assets/fruits/mango.png',
   itemName: 'Manga',
   price: 2.5,
   unit: 'un',
@@ -46,7 +46,7 @@ ItemModel mango = ItemModel(
 );
 
 ItemModel papaya = ItemModel(
-  imgUrl: 'assets\\fruits\\papaya.png',
+  imgUrl: 'assets/fruits/papaya.png',
   itemName: 'Mamão papaya',
   price: 8,
   unit: 'kg',
