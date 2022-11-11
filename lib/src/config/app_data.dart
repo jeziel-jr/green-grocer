@@ -68,5 +68,5 @@ List<String> categories = [
   'Grãos',
   'Verduras',
   'Temperos',
-  'Cerais',
+  'Cereais',
 ];
